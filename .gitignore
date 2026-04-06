@@ -1,0 +1,19 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Jupyter Notebook backups and checkpoints
+training/*.backup
+.ipynb_checkpoints/
+
+# Note: We are deliberately NOT ignoring data/ and static/ because they are required
+# for the app to function properly on the remote server (e.g. models, datasets).
