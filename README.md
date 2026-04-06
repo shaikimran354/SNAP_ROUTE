@@ -55,6 +55,14 @@ Snap Route is a FastAPI-based backend application that provides image classifica
 - `data/`: Datasets, pre-trained `.h5` ML models, and reference files.
 - `training/`: Jupyter notebooks used for data preprocessing and model training.
 
+## Output Result
+<img width="1206" height="577" alt="image" src="https://github.com/user-attachments/assets/2b27cd4a-d368-41d8-9fe2-374ef9e8b573" />
+<img width="1091" height="564" alt="image" src="https://github.com/user-attachments/assets/20331e61-d2e5-4d38-8739-2f4953837ee7" />
+<img width="1081" height="491" alt="image" src="https://github.com/user-attachments/assets/86a45c73-0174-491b-bb80-b12fb4cb1767" />
+
+
+
+
 ## License
 
 This project is created by [shaikimran354](https://github.com/shaikimran354).
