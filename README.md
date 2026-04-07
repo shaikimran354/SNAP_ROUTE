@@ -8,6 +8,13 @@ Snap Route is a FastAPI-based backend application that provides image classifica
 - **Route Tracking**: Calculate distances, estimated time, required steps, and calories burned between two locations using pre-loaded coordinate data and OSRM (Open Source Routing Machine).
 - **FastAPI Framework**: Robust, high-performance API backend.
 
+
+  
+## Dataset :
+https://drive.google.com/drive/folders/1mjxdYdAGYKVRA9fJZo8Pd1Tb12j-nHCM
+
+
+
 ## Setup and Installation
 
 1. **Clone the repository:**
